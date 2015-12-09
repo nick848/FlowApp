@@ -8,3 +8,4 @@ unpackage
 gulpfile.js
 package.json
 .gitignore
+manifest.json
